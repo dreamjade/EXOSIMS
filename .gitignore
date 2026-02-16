@@ -1,3 +1,7 @@
+# Notebooks and Tabulations
+Notebooks/
+Tabulations/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
